@@ -61,4 +61,6 @@ Roxygen: list(markdown = TRUE, roclets = c("rd", "namespace", "collate"))
 RoxygenNote: 6.1.0.9000
 Remotes:
     RcppCore/Rcpp,
-    r-lib/rlang
+    r-lib/rlang, 
+    tidyverse/tibble
+
